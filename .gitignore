@@ -1,4 +1,4 @@
 .vscode/
 .git/
 .ipynb_checkpoints/
-__pycahce__/
+__pycache__/
